@@ -1,13 +1,13 @@
 package main
 
 import (
-	"ProxyTest/mihomo"
+	"proxy-test/mihomo"
 
 	"github.com/spf13/cobra"
 )
 
 var cliCmd = &cobra.Command{
-	Use:   "ProxyTest",
+	Use:   "Proxy Test",
 	Short: "Mihomo delays tester",
 	Long:  `A delays tester for Mihomo.`,
 }

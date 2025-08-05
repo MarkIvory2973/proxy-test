@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ProxyTest/mihomo"
+	"proxy-test/mihomo"
 	"time"
 
 	"github.com/sirupsen/logrus"

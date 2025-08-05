@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ProxyTest/mathx"
+	"proxy-test/mathx"
 )
 
 func calcScores(results map[string][]float64, weight float64) ([]string, []float64, []float64, []float64) {

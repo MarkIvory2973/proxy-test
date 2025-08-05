@@ -1,7 +1,7 @@
 package mihomo
 
 import (
-	"ProxyTest/httpx"
+	"proxy-test/httpx"
 	"fmt"
 	"strconv"
 )

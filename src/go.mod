@@ -1,4 +1,4 @@
-module ProxyTest
+module proxy-test
 
 go 1.24.2
 
